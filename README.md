@@ -1,11 +1,6 @@
 # 💫 About Me  
 Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer passionate about building software, exploring AI, and designing mobile-first experiences.
 
-## 🚀 What I Do  
-- 🔭 Working on machine learning & computer vision projects  
-- 📱 Developing mobile-first web apps using **Ionic + SCSS**  
-- 🤖 Exploring AI/ML with **Python, TensorFlow, CNN**  
-- 💡 Problem solver & lifelong learner  
 
 ## 🛠️ Tech Stack  
 **Languages:**  
