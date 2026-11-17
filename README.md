@@ -42,11 +42,6 @@ Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer pas
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced CNN architectures  
-- Laravel API integration for mobile  
-- System design patterns (MVC, Layered)
-
 ## 📫 Contact Me  
 - 📧 Email: muhamadfahrisalam74@gmail.com  
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
