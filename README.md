@@ -1,23 +1,6 @@
 <p align="center">
   <img src="./assets/cyberpunk-neon.svg" alt="Muhamad Fahri Salam — cyberpunk profile" width="100%" />
 </p>
-
-### // whoami
-
-tech enthusiast and aspiring developer. building software, exploring ai, and designing mobile-first experiences.
-
-### // currently
-
-- training cnn models for machine learning & computer vision projects
-- building mobile-first web apps with ionic + scss
-- learning laravel api integration for mobile and system design patterns
-
-### // contact
-
-`yourwebsite.com` · `@MuhamadFahriSalam` · `muhamadfahrisalam74@gmail.com`
-
----
-
 # 💫 About Me  
 Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer passionate about building software, exploring AI, and designing mobile-first experiences.
 
