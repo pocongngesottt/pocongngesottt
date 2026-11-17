@@ -10,12 +10,6 @@ Frontend Developer passionate about building modern web applications, exploring 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake.svg" />
