@@ -54,6 +54,10 @@ Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer pas
 
 ---
 
+<p align="center"> <img src="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" /> </p> <p align="center"> <strong>Muhamad Fahri Salam</strong> · <em>Building mobile-first apps and teaching machines to see.</em> </p>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake.svg" />
