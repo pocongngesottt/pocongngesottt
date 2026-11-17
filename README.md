@@ -1,17 +1,3 @@
-<table align="center" border="0" width="100%" cellspacing="0" cellpadding="0"> <tr> <td bgcolor="#111111" align="left" style="padding: 14px 28px;"> <strong style="color:#f6f1e7; font-family:Georgia, serif; font-style:italic; letter-spacing:2px;">THE PROFILE</strong> </td> <td bgcolor="#111111" align="right" style="padding: 14px 28px;"> <code style="color:#f6f1e7;">VOL.01 · 2026</code> </td> </tr> </table> <table align="center" border="0" width="100%" cellspacing="0" cellpadding="20"> <tr> <td width="55%" valign="top">
-A studio<br><em>of one.</em>
-
-Muhamad Fahri Salam · Aspiring developer — machine learning & mobile-first apps
-
-</td> <td width="45%" valign="top">
-— SELECTED WORK
-
-01 · Machine learning & computer vision<br> 02 · Mobile-first apps with Ionic + SCSS<br> 03 · Laravel APIs for mobile
-
-</td> </tr> </table>
-<p align="center"> <code>yourwebsite.com</code> · <code>@pocongngesottt</code> · <code>muhamadfahrisalam74@gmail.com</code> </p>
-
-
 # 💫 About Me  
 Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer passionate about building software, exploring AI, and designing mobile-first experiences.
 
