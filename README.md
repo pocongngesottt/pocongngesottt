@@ -58,11 +58,6 @@ Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer pas
   <img src="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Muhamad Fahri Salam</strong> · <em>Building mobile-first apps and teaching machines to see.</em>
-</p>
-
-
 ---
 
 <picture>
