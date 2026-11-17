@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer passionate about building software, exploring AI, and designing mobile-first experiences.
+Frontend Developer passionate about building modern web applications, exploring Artificial Intelligence, and creating seamless mobile-first user experiences.
 
 ---
 
