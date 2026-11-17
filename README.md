@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/cyberpunk-neon.svg" alt="Muhamad Fahri Salam — cyberpunk profile" width="100%" />
-</p>
 # 💫 About Me  
 Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer passionate about building software, exploring AI, and designing mobile-first experiences.
 
@@ -53,7 +50,34 @@ Hi, I'm **Muhamad Fahri Salam** — a tech enthusiast and aspiring developer pas
 ## 📫 Contact Me  
 - 📧 Email: muhamadfahrisalam74@gmail.com  
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 📸 LinkedIn / GitHub: @MuhamadFahriSalam  
+- 📸 LinkedIn: @MuhamadFahriSalam · GitHub: @pocongngesottt  
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Muhamad Fahri Salam</strong> · <em>Building mobile-first apps and teaching machines to see.</em>
+</p>
+
+---
+
+### currently
+
+Training CNN models for computer vision, building mobile-first apps with Ionic + SCSS, and learning Laravel API integration for mobile along with system design patterns.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pocongngesottt/pocongngesottt/output/snake.svg" width="100%" />
+</picture>
+
+### Muhamad Fahri Salam
+
+> *Building mobile-first apps and teaching machines to see.*
+
+The snake above is built fresh every day — it's eating real commits, not props.
+
+— [yourwebsite.com](https://yourwebsite.com) · [LinkedIn](https://linkedin.com/in/MuhamadFahriSalam) · [@pocongngesottt](https://github.com/pocongngesottt)
